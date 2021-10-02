@@ -1,0 +1,5 @@
+C:\Users\Satrio\Documents\C#\Pesan_Tiket\obj\Debug\net5.0\Pesan_Tiket.csproj.AssemblyReference.cache
+C:\Users\Satrio\Documents\C#\Pesan_Tiket\obj\Debug\net5.0\Pesan_Tiket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satrio\Documents\C#\Pesan_Tiket\obj\Debug\net5.0\Pesan_Tiket.AssemblyInfoInputs.cache
+C:\Users\Satrio\Documents\C#\Pesan_Tiket\obj\Debug\net5.0\Pesan_Tiket.AssemblyInfo.cs
+C:\Users\Satrio\Documents\C#\Pesan_Tiket\obj\Debug\net5.0\Pesan_Tiket.csproj.CoreCompileInputs.cache
